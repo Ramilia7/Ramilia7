@@ -31,4 +31,22 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-</div>
+<h2>Тестовые артефакты</h2>
+
+<ul>
+  <li>
+    <a href="https://github.com/Ramilia7/web">Тестирование интернет-магазина</a>
+  </li>
+  <li>
+    <a href="https://github.com/Ramilia7/api">Тестирование REST и SOAP API через Postman</a>
+  </li>
+  <li>
+    <a href="https://github.com/Ramilia7/bash">Базовые команды в Bash</a>
+  </li>
+  <li>
+    <a href="https://github.com/Ramilia7/mobile">Тестирование Android-приложения</a>
+  </li>
+  <li>
+    <a href="https://github.com/Ramilia7/database">Работа с базами данных</a>
+  </li>
+</ul>
